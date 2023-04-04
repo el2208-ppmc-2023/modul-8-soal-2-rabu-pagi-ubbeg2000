@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/BK_x-RZQ)
-# Modul 8 Rabu Pagi Soal 2: Advanced Algorithms
+# Modul 8 Rabu Pagi Soal 2: Advanced Algorithms 
 
 ### Instruksi
 Bacalah dokumen ini serta naskah soal yang terdapat pada *repo* ini dengan seksama.
