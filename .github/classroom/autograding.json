@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "make main",
+      "run": "./main",
+      "input": "map1.txt\r\n4\r\n2",
+      "output": "Jumlah klaster: 4",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2",
+      "setup": "",
+      "run": "./main",
+      "input": "map2.txt\r\n2\r\n2",
+      "output": "Jumlah klaster: 2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "3",
+      "setup": "",
+      "run": "./main",
+      "input": "map3.txt\r\n8\r\n1",
+      "output": "Jumlah klaster: 2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "4",
+      "setup": "",
+      "run": "./main",
+      "input": "map4.txt\r\n0\r\n1",
+      "output": "Jumlah klaster: 2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "5",
+      "setup": "",
+      "run": "./main",
+      "input": "map5.txt\r\n7\r\n3",
+      "output": "Jumlah klaster: 2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "6",
+      "setup": "",
+      "run": "./main",
+      "input": "map1.txt\r\n5\r\n1",
+      "output": "Jumlah klaster: 3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "7",
+      "setup": "",
+      "run": "./main",
+      "input": "map2.txt\r\n8\r\n1",
+      "output": "Jumlah klaster: 0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "8",
+      "setup": "",
+      "run": "./main",
+      "input": "map3.txt\r\n8\r\n0",
+      "output": "Jumlah klaster: 2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "9",
+      "setup": "",
+      "run": "./main",
+      "input": "map4.txt\r\n1\r\n1",
+      "output": "Jumlah klaster: 1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "",
+      "run": "./main",
+      "input": "map5.txt\r\n6\r\n2",
+      "output": "Jumlah klaster: 3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
