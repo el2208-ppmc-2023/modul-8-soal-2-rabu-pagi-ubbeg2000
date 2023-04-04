@@ -3,7 +3,7 @@
  *   Hari dan Tanggal    :
  *   Nama (NIM)          :
  *   Nama File           : main.c
- *   Deskripsi           :
+ *   Deskripsi           : 
  */
 
 #include <stdio.h>
